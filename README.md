@@ -26,8 +26,8 @@ This project consists of two Jupyter notebooks:
 - Policy analysis and interpretation  
 
 ## Project Structure
-├── reproduction_notebook.ipynb # Step-by-step replication of the paper
-├── extension_notebook.ipynb # Extended analysis and new experiments
+- reproduction_notebook.ipynb # Step-by-step replication of the paper
+- extension_notebook.ipynb # Extended analysis and new experiments
 
 ## Key Findings
 - PCA aids interpretability, but clustering performance is similar in high dimensions.
