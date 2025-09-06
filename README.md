@@ -8,7 +8,7 @@ This project consists of two Jupyter notebooks:
 ## Original Paper
 - Title: *A Novel Approach for Predicting Anthropogenic CO2 Emissions Using Machine Learning Based on Clustering of the CO2 Concentration*  
 - Journal: Atmosphere, 2024  
-- Authors: [Provide citation here]
+- Authors: [by Zhanghui Ji, Hao Song 4, Liping Lei, Mengya Sheng, Kaiyuan Guo, and Shaoqing Zhang]
 
 ## Differences from Original Paper
 - **Dataset**: OWID global dataset instead of China-specific ODIAC.  
