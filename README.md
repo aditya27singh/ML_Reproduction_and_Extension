@@ -39,3 +39,6 @@ This project consists of two Jupyter notebooks:
 - Climate research
 - Environmental policy planning
 - AI/ML for sustainability
+
+## License
+Released under MIT License
